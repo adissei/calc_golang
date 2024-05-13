@@ -1,1 +1,1 @@
-# calc_golang
+Калькулятор на golang
